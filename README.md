@@ -1,43 +1,56 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,100:1a1a3e&height=120&section=header&text=Dhruv%20Jaiswal&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
 
-# Dhruv Jaiswal
+<div align="center">
 
-**EE @ IIT Delhi · Builder · Systems + AI + Quant**
-
-*I build things that shouldn't exist yet.*
+```
+EE @ IIT Delhi   ·   systems   ·   agentic AI   ·   quant
+```
 
 </div>
 
 ---
 
-### What I'm working on
+### what I actually work on
 
-- **[HALI](https://github.com/jdhruv1503/HALI)** — Hierarchical adaptive learned index for dynamic filesystem metadata (C)
-- **[LinuxCompatibilityLayer](https://github.com/jdhruv1503/LinuxCompatibilityLayer)** — Running Linux syscalls somewhere they shouldn't run
-- **[Kernel](https://github.com/jdhruv1503/Kernel)** — Built my own deployment platform when Vercel wanted to charge me for basics
-- **[ESP32-Linux-Runtime](https://github.com/jdhruv1503/ESP32-Linux-Runtime)** — Linux on an ESP32 because why not
+**[Brainiac](https://github.com/jdhruv1503/Brainiac)** — autonomous alpha research. agents that read papers, form hypotheses, backtest, iterate. trying to make the research loop fully agentic.
 
----
+**[HALI](https://github.com/jdhruv1503/HALI)** — learned index for filesystem metadata. replaces B-tree with a model that knows your access patterns. faster, smaller, adapts.
 
-### Stack
+**[LinuxCompatibilityLayer](https://github.com/jdhruv1503/LinuxCompatibilityLayer)** — making Linux syscalls work somewhere they weren't supposed to. ongoing.
 
-```
-Languages:  C · Python · TypeScript · JavaScript
-Systems:    Linux internals · networking · embedded
-AI/ML:      agentic AI · RL · learned data structures
-Interests:  quant trading · autonomous agents · infra
-```
+**[Turbo-Options](https://github.com/jdhruv1503/Turbo-Options)** — HFT options pricer in C++. Monte Carlo + finite difference, fast.
+
+**[Kernel](https://github.com/jdhruv1503/Kernel)** — built my own deployment platform. Vercel wanted money for things that should be free.
 
 ---
 
-### Background
+### stack
 
-3rd year EE at IIT Delhi. I like systems programming, building autonomous agents, and occasionally winning hackathons. Currently exploring: learned index structures, agentic AI workflows, and algorithmic trading research.
+```
+C · C++ · Python · TypeScript
+linux internals · networking · filesystems · embedded
+agentic AI · RL · quantitative methods · LLM tooling
+```
+
+---
+
+### recent
+
+- 3rd @ **AMD AI Hackathon IITD** (Feb 2026)
+- 1st @ **Genesis Hackathon** — ARIES × Orange IITD (2025)  
+- **Sam Altman** came to IITD. I was there.
 
 ---
 
 <div align="center">
 
-[X / Twitter](https://x.com/jdhruv1503) · [LinkedIn](https://linkedin.com/in/js-dhruv) · [Email](mailto:ee3222079@iitd.ac.in)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/jdhruv1503)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/js-dhruv)
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a3e,100:0f0f23&height=60&section=footer" width="100%"/>
 </div>

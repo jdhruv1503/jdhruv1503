@@ -1,56 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,100:1a1a3e&height=120&section=header&text=Dhruv%20Jaiswal&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-</div>
 
-<div align="center">
-
-```
-EE @ IIT Delhi   ·   systems   ·   agentic AI   ·   quant
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Dhruv%20Jaiswal&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 </div>
+
+```
+EE @ IIT Delhi  ·  systems + AI + quant  ·  building things that probably shouldn't exist
+```
 
 ---
 
-### what I actually work on
+### what i'm actually working on
 
-**[Brainiac](https://github.com/jdhruv1503/Brainiac)** — autonomous alpha research. agents that read papers, form hypotheses, backtest, iterate. trying to make the research loop fully agentic.
-
-**[HALI](https://github.com/jdhruv1503/HALI)** — learned index for filesystem metadata. replaces B-tree with a model that knows your access patterns. faster, smaller, adapts.
-
-**[LinuxCompatibilityLayer](https://github.com/jdhruv1503/LinuxCompatibilityLayer)** — making Linux syscalls work somewhere they weren't supposed to. ongoing.
-
-**[Turbo-Options](https://github.com/jdhruv1503/Turbo-Options)** — HFT options pricer in C++. Monte Carlo + finite difference, fast.
-
-**[Kernel](https://github.com/jdhruv1503/Kernel)** — built my own deployment platform. Vercel wanted money for things that should be free.
+| | project | what it does |
+|---|---|---|
+| 🧠 | **[Brainiac](https://github.com/jdhruv1503/Brainiac)** | agentic AI that generates and backtests quant alpha strategies autonomously |
+| 🗂️ | **[HALI](https://github.com/jdhruv1503/HALI)** | hierarchical adaptive learned index for filesystem metadata — faster than B-trees for dynamic workloads |
+| 🐧 | **[LinuxCompatibilityLayer](https://github.com/jdhruv1503/LinuxCompatibilityLayer)** | run linux syscalls where they don't belong |
+| ⚡ | **[Turbo-Options](https://github.com/jdhruv1503/Turbo-Options)** | Monte Carlo + FDM options pricing engine in C++ |
+| 🖥️ | **[Kernel](https://github.com/jdhruv1503/Kernel)** | built my own deployment platform because Vercel wanted to charge me for basic features |
 
 ---
 
 ### stack
 
-```
-C · C++ · Python · TypeScript
-linux internals · networking · filesystems · embedded
-agentic AI · RL · quantitative methods · LLM tooling
+```python
+languages  = ["C", "C++", "Python", "TypeScript"]
+domains    = ["systems programming", "learned data structures", "agentic AI", "quant finance"]
+currently  = "building autonomous agents that do real research"
 ```
 
 ---
 
-### recent
+### a few things
 
-- 3rd @ **AMD AI Hackathon IITD** (Feb 2026)
-- 1st @ **Genesis Hackathon** — ARIES × Orange IITD (2025)  
-- **Sam Altman** came to IITD. I was there.
+- 🥉 AMD AI Hackathon @ IIT Delhi — 3rd place (Feb 2026)
+- 🏆 Genesis Hackathon (ARIES × Orange IITD) — winner (2025)
+- Attended Sam Altman's talk at IIT Delhi (Feb 2026)
+- 3rd year EE at IITD, building in the systems + AI overlap
 
 ---
 
-<div align="center">
+### find me
 
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/jdhruv1503)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/js-dhruv)
+<div align="left">
+
+[![X](https://img.shields.io/badge/@jdhruv1503-000000?style=flat&logo=x&logoColor=white)](https://x.com/jdhruv1503)
+[![LinkedIn](https://img.shields.io/badge/js--dhruv-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/js-dhruv)
+[![GitHub](https://img.shields.io/badge/jdhruv1503-181717?style=flat&logo=github&logoColor=white)](https://github.com/jdhruv1503)
+
+</div>
+
+<div align="right">
+
+![Profile Views](https://komarev.com/ghpvc/?username=jdhruv1503&color=e94560&style=flat&label=profile+views)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a3e,100:0f0f23&height=60&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=60&section=footer" width="100%"/>
 </div>

@@ -1,57 +1,69 @@
-# `Dhruv Joshi` — EE @ IITD building agentic quant pipelines + low-level systems that survive real workloads.
+<div align="center">
 
-`$ uptime`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Dhruv%20Joshi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=EE%20%40%20IIT%20Delhi%20%C2%B7%20systems%20%2F%20linux%20%2F%20low-level%20AI&descAlignY=60&descSize=14&descColor=8b949e" width="100%"/>
 
-![GitHub followers](https://img.shields.io/github/followers/jdhruv1503?style=flat-square&label=followers&color=111827)
-![Brainiac stars](https://img.shields.io/github/stars/jdhruv1503/Brainiac?style=flat-square&label=Brainiac★&color=111827)
-![Brainiac last commit](https://img.shields.io/github/last-commit/jdhruv1503/Brainiac?style=flat-square&label=Brainiac%20updated&color=111827)
-![HALI language](https://img.shields.io/github/languages/top/jdhruv1503/HALI?style=flat-square&label=HALI%20lang&color=111827)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=60&lines=building+Linux+syscall+layers+where+they+don't+belong;systems+programmer+%2F+kernel+tinkerer+%2F+builder;co-founded+Genoshi+%C2%B7+deployed+to+20%2B+banks+%C2%B7+still+a+student)](https://github.com/jdhruv1503)
+
+</div>
+
+---
 
 ```bash
 jdhruv1503@github:~$ whoami
-Dhruv Joshi (B.Tech EE, IIT Delhi)
+Dhruv Joshi — 4th year EE at IIT Delhi.
+Co-founder & CTO at Genoshi (AI data discovery, 20+ banks, 3 grants, profitable).
+I build things low in the stack and study what breaks at the edges.
 
 jdhruv1503@github:~$ now
-- Building LinuxCompatibilityLayer (BTP): Linux syscall compatibility layer + ESP-IDF side experiments
-- Shipping Brainiac: agentic WorldQuant alpha generation + backtesting pipeline (45★)
-- Stress-testing learned indexes in HALI; writing down what failed, not just what benchmarked well
+- LinuxCompatibilityLayer (BTP): Linux syscall compatibility layer for non-Linux runtimes
+- prometheus-ml: decision engine for ML competitions — treats experiment selection as a bandit problem
+- HALI: write-through learned index for filesystem metadata, C, stress-testing at scale
 
 jdhruv1503@github:~$ stack --current
-python c cpp | langchain llamaindex pytorch pandas | linux docker git esp-idf
+c  cpp  python  rust(learning) | linux  esp-idf  docker  git | pytorch  langchain
 ```
 
-## `featured/`
+---
 
-### `LinuxCompatibilityLayer` *(primary)*
-Run Linux syscalls where they don't belong. Compatibility shim for non-Linux environments, with embedded/runtime thinking baked in.
+### `featured/`
 
-`repo:` https://github.com/jdhruv1503/LinuxCompatibilityLayer
+| | | |
+|---|---|---|
+| 🐧 | **[LinuxCompatibilityLayer](https://github.com/jdhruv1503/LinuxCompatibilityLayer)** | Run Linux syscalls where they don't belong. Compatibility shim for non-Linux runtimes. BTP project. Ongoing. |
+| 🗂️ | **[HALI](https://github.com/jdhruv1503/HALI)** | Write-through hierarchical adaptive learned index for dynamic filesystem metadata in C. Faster than B-trees on write-heavy workloads. |
+| 🧠 | **[Brainiac](https://github.com/jdhruv1503/Brainiac)** | Agentic pipeline for WorldQuant-style alpha generation and backtesting. 45★ |
+| 🔬 | **[prometheus-ml](https://github.com/jdhruv1503/prometheus-ml)** | ML competition decision engine. Ranks experiments by expected gain per minute under a hard time budget. |
+| 🖥️ | **[Kernel](https://github.com/jdhruv1503/Kernel)** | Built my own deployment platform when Vercel started charging for basic features. |
 
-### `Brainiac` *(most starred · 45★)*
-Agentic quantitative research pipeline for WorldQuant-style alpha ideation, validation, and backtesting.
+---
 
-`repo:` https://github.com/jdhruv1503/Brainiac
+### `background/`
 
-### `EduRAG`
-Socratic RAG tutor project (iterating on retrieval quality + teaching flow).
+4th year EE at IIT Delhi. Co-founder & CTO at [Genoshi](https://genoshi.io) — built an AI data discovery product deployed to Forex dealers across 20+ banks, 3 grants, profitable. Before that, interned at 360One building ML recommendation engines for 10L+ channel partners.
 
-`status:` in-progress / repo not public right now
+I work in systems programming, Linux internals, low-level AI infrastructure, and occasionally ship something useful.
 
-### `HALI`
-WT-HALI: write-through hierarchical adaptive learned index for dynamic filesystem metadata. Hybrid learned + classic structures; good lessons from what didn't scale.
+---
 
-`repo:` https://github.com/jdhruv1503/HALI
+<div align="center">
 
-## `stats/`
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jdhruv1503&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdhruv1503&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-![stats](https://github-readme-stats.vercel.app/api?username=jdhruv1503&show_icons=true&theme=dark&hide_border=true)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdhruv1503&layout=compact&theme=dark&hide_border=true)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=jdhruv1503&theme=dark&hide_border=true)
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=jdhruv1503&theme=github-compact&hide_border=true&area=true)
+</div>
 
-## `now/`
-- tuning Brainiac eval loops to kill false-positive alphas earlier
-- hardening LinuxCompatibilityLayer test matrix + syscall edge cases
-- writing short build notes: what worked, what broke, and why
+<div align="center">
 
-`contact:` github.com/jdhruv1503 · x.com/jdhruv1503
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jdhruv1503&theme=github-dark-blue&hide_border=true" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jdhruv1503&theme=github-compact&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+`contact:` [x.com/jdhruv1503](https://x.com/jdhruv1503) · [github.com/jdhruv1503](https://github.com/jdhruv1503)

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Dhruv%20Joshi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=EE%20%40%20IIT%20Delhi%20%C2%B7%20systems%20%2F%20linux%20%2F%20low-level%20AI&descAlignY=60&descSize=14&descColor=8b949e" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=60&lines=building+Linux+syscall+layers+where+they+don't+belong;systems+programmer+%2F+kernel+tinkerer+%2F+builder;co-founded+Genoshi+%C2%B7+deployed+to+20%2B+banks+%C2%B7+still+a+student)](https://github.com/jdhruv1503)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=building+Linux+syscall+layers+where+they+don't+belong;systems+programmer+%2F+kernel+tinkerer+%2F+builder;co-founded+Genoshi+%C2%B7+deployed+to+20%2B+banks+%C2%B7+still+a+student)](https://github.com/jdhruv1503)
 
 </div>
 
